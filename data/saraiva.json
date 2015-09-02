@@ -1,0 +1,133 @@
+({
+   "data":{
+      "widget":{
+         "size":10
+      },
+      "reference":{
+         "timestamp":"14/12/2012",
+         "item":{
+            "businessId":"1768629",
+            "name":"Black Para Sempre",
+            "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8888789",
+            "detailUrl":"http://www.saraiva.com.br/black-para-sempre-8888789.html?mi=VITRINECHAORDIC_similaritems_product_8888789",
+            "price":"R$ 22,90",
+            "oldPrice":"R$ 34,90",
+            "productInfo":{
+              "paymentConditions":null
+            }
+         }
+      },
+      "recommendation":[
+        {
+           "businessId":"1768411",
+           "name":"Rush Sem Limites - Ele Tentou Fugir. Mas A Paixão Foi Maior",
+           "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8884830",
+           "detailUrl":"http://www.saraiva.com.br/rush-sem-limites-ele-tentou-fugir-mas-a-paixao-foi-maior-8884830.html?mi=VITRINECHAORDIC_similaritems_product_8884830",
+           "price":"R$ 14,50",
+           "oldPrice":"R$ 24,90",
+           "productInfo":{
+             "paymentConditions":null
+           }
+        },
+        {
+           "businessId":"1768411",
+           "name":"Sempre Irresistível - Série Cretino Irresistível",
+           "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8893542",
+           "detailUrl":"http://www.saraiva.com.br/sempre-irresistivel-serie-cretino-irresistivel-8893542.html?mi=VITRINECHAORDIC_similaritems_product_8893542",
+           "price":"R$ 19,90",
+           "oldPrice":"R$ 24,90",
+           "productInfo":{
+             "paymentConditions":null
+           }
+        },
+        {
+           "businessId":"1768411",
+           "name":"Devasso",
+           "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8883579",
+           "detailUrl":"http://www.saraiva.com.br/devasso-8883579.html?mi=VITRINECHAORDIC_similaritems_product_8883579",
+           "price":"R$ 29,20",
+           "oldPrice":"R$ 39,90",
+           "productInfo":{
+             "paymentConditions":null
+           }
+        },
+         {
+            "businessId":"1768411",
+            "name":"Tons de Desejo - Jamie Dornan",
+            "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8451071",
+            "detailUrl":"http://www.saraiva.com.br/tons-de-desejo-jamie-dornan-8451071.html?mi=VITRINECHAORDIC_similaritems_product_8451071",
+            "price":"R$ 17,60",
+            "oldPrice":"R$ 29,00",
+            "productInfo":{
+              "paymentConditions":null
+            }
+         },
+         {
+            "businessId":"1768411",
+            "name":"Função Ceo - A Descoberta da Verdade",
+            "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8888965",
+            "detailUrl":"http://www.saraiva.com.br/funcao-ceo-a-descoberta-da-verdade-8888965.html?mi=VITRINECHAORDIC_similaritems_product_8888965",
+            "price":"R$ 23,10",
+            "oldPrice":"R$ 39,90",
+            "productInfo":{
+              "paymentConditions":null
+            }
+         },
+         {
+            "businessId":"1768411",
+            "name":"Desculpa, Eu Te Amo - Trilogia o Amante",
+            "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8889725",
+            "detailUrl":"http://www.saraiva.com.br/desculpa-eu-te-amo-trilogia-o-amante-8889725.html?mi=VITRINECHAORDIC_similaritems_product_8889725",
+            "price":"R$ 35,90",
+            "oldPrice":"R$ 44,90",
+            "productInfo":{
+              "paymentConditions":null
+            }
+         },
+         {
+            "businessId":"1768411",
+            "name":"Cinquenta Tons de Jamie Dornan",
+            "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8304842",
+            "detailUrl":"http://www.saraiva.com.br/cinquenta-tons-de-jamie-dornan-8304842.html?mi=VITRINECHAORDIC_similaritems_product_8304842",
+            "price":"R$ 17,50",
+            "oldPrice":"R$ 29,90",
+            "productInfo":{
+              "paymentConditions":null
+            }
+         },
+         {
+            "businessId":"1768411",
+            "name":"Cinquenta Tons de Êxtase",
+            "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=4886585",
+            "detailUrl":"http://www.saraiva.com.br/cinquenta-tons-de-extase-4886585.html?mi=VITRINECHAORDIC_similaritems_product_4886585",
+            "price":"R$ 19,80",
+            "oldPrice":"R$ 22,00",
+            "productInfo":{
+              "paymentConditions":null
+            }
+         },
+         {
+            "businessId":"1768411",
+            "name":"Grey - Cinquenta Tons de Cinza Pelos Olhos de Christian",
+            "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8890461",
+            "detailUrl":"http://www.saraiva.com.br/grey-cinquenta-tons-de-cinza-pelos-olhos-de-christian-8890461.html?mi=VITRINECHAORDIC_viewpersonalized_home_8890461",
+            "price":"R$ 29,80",
+            "oldPrice":"R$ 39,90",
+            "productInfo":{
+               "paymentConditions":null
+            }
+         },
+         {
+            "businessId":"1768411",
+            "name":"Surpresa Irresistível",
+            "imageName":"http://images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8986873",
+            "detailUrl":"http://www.saraiva.com.br/surpresa-irresistivel-col-cretino-irresistivel-8986873.html?mi=VITRINECHAORDIC_similaritems_product_8986873",
+            "price":"R$ 35,90",
+            "oldPrice":"R$ 44,90",
+            "productInfo":{
+              "paymentConditions":null
+            }
+         }
+      ]
+   }
+});

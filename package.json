@@ -1,0 +1,33 @@
+{
+  "name": "chaordic-data",
+  "version": "0.1.4",
+  "description": "Chaordic OnSite data sample",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'Error: No test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tropicloud/chaordic-data.git"
+  },
+  "keywords": [
+    "chaordic",
+    "touch",
+    "responsive",
+    "carousel",
+    "jquery",
+    "json",
+    "ajax"
+  ],
+  "author": "Guilherme Jaccoud <admin@tropicloud.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tropicloud/chaordic-data/issues"
+  },
+  "homepage": "https://github.com/tropicloud/chaordic-data#readme"
+}

@@ -1,0 +1,4 @@
+app:
+  image: tropicloud/chaordic-data
+  ports:
+    - "80:8080"

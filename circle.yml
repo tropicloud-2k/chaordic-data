@@ -1,0 +1,19 @@
+machine:
+  services:
+    - docker
+
+dependencies:
+  override:
+    - docker info
+    - docker build -t tropicloud/chaordic-data .
+
+test:
+  override:
+    - docker run -d -p 80:8080 tropicloud/chaordic-data; sleep 10
+    - curl --retry 10 --retry-delay 5 -v http://localhost/saraiva/challenge.json?callback=${RANDOM}
+
+deployment:
+  dockerhub:
+    branch: master
+    commands:
+      - $TRIGGER_URL
