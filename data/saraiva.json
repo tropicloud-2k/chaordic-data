@@ -7,7 +7,7 @@
          "timestamp":"14/12/2012",
          "item":{
             "businessId":"1768629",
-            "name":"Black Para Sempre",
+            "name":"Black Para Sempre - Trilogia Forever - Vol. 1",
             "imageName":"//images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8888789",
             "detailUrl":"//www.saraiva.com.br/black-para-sempre-8888789.html?mi=VITRINECHAORDIC_similaritems_product_8888789",
             "price":"R$ 22,90",
@@ -42,11 +42,11 @@
         },
         {
            "businessId":"1768411",
-           "name":"Devasso",
-           "imageName":"//images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8883579",
-           "detailUrl":"//www.saraiva.com.br/devasso-8883579.html?mi=VITRINECHAORDIC_similaritems_product_8883579",
-           "price":"R$ 29,20",
-           "oldPrice":"R$ 39,90",
+           "name":"Uma Noite e Nada Mais - Whitney Gracia",
+           "imageName":"//images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8874827",
+           "detailUrl":"//www.saraiva.com.br/uma-noite-e-nada-mais-8874827.html?mi=VITRINECHAORDIC_similaritems_product_8874827",
+           "price":"R$ 29,90",
+           "oldPrice":"R$ 18,40",
            "productInfo":{
              "paymentConditions":null
            }
@@ -66,7 +66,7 @@
             "businessId":"1768411",
             "name":"Você Para Sempre - Trilogia Forever - Vol. 2",
             "imageName":"//images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=9009673",
-            "detailUrl":"http//www.saraiva.com.br/voce-para-sempre-trilogia-forever-vol-2-9009673.html?mi=VITRINECHAORDIC_similaritems_product_9009673",
+            "detailUrl":"//www.saraiva.com.br/voce-para-sempre-trilogia-forever-vol-2-9009673.html?mi=VITRINECHAORDIC_similaritems_product_9009673",
             "price":"R$ 31,90",
             "oldPrice":"R$ 39,90",
             "productInfo":{
@@ -119,7 +119,7 @@
          },
          {
             "businessId":"1768411",
-            "name":"Surpresa Irresistível",
+            "name":"Surpresa Irresistível - Col. Cretino Irresistível ",
             "imageName":"//images.livrariasaraiva.com.br/imagem/imagem.dll?A=-1&PIM_Id=&L=190&pro_id=8986873",
             "detailUrl":"//www.saraiva.com.br/surpresa-irresistivel-col-cretino-irresistivel-8986873.html?mi=VITRINECHAORDIC_similaritems_product_8986873",
             "price":"R$ 35,90",
