@@ -1,133 +1,133 @@
-({
-   "data":{
-      "widget":{
-         "size":10
+{
+   "data": {
+      "widget": {
+         "size": 10
       },
-      "reference":{
-         "timestamp":"14/12/2012",
-         "item":{
-           "businessId":"1768411",
-           "name":"Tênis Nike Fingertrap Max – Masculino",
-           "imageName":"//images.centauro.com.br/180x180/82876602.jpg",
-           "detailUrl":"//www.centauro.com.br/tenis-nike-fingertrap-max-644673-828766.html?cor=02",
-           "price":"R$ 299,99",
-           "oldPrice":"R$ 449,99",
-           "productInfo":{
-              "paymentConditions":"Até <strong>12x</strong> de <strong> 25,00</strong>"
-           }
-         }
+      "reference": {
+        "timestamp": "16/09/2015",
+        "item": {
+          "businessId": "1768411",
+          "name": "Tênis Nike Fingertrap Max – Masculino",
+          "imageName": "//images.centauro.com.br/180x180/82876602.jpg",
+          "detailUrl": "//www.centauro.com.br/tenis-nike-fingertrap-max-644673-828766.html?cor=02",
+          "price": "R$ 299,99",
+          "oldPrice": "R$ 449,99",
+          "productInfo": {
+            "paymentConditions": "Até <strong>12x</strong> de <strong> 25,00</strong>"
+          }
+        }
       },
-      "recommendation":[
+      "recommendation": [
          {
-            "businessId":"1776985",
-            "name":"Tênis Adidas Springblade 2 Tf - Masculino",
-            "imageName":"//images.centauro.com.br/180x180/838947UP.jpg",
-            "detailUrl":"//www.centauro.com.br/tenis-adidas-springblade-2-tf-m-838947.html?cor=UP&p=838947UP",
-            "price":"R$ 599,99",
-            "oldPrice":"R$ 999,99",
-            "productInfo":{
-               "paymentConditions":"Até <strong>12x</strong> de <strong> 50,00</strong>"
+            "businessId": "1776985",
+            "name": "Tênis Adidas Springblade 2 Tf - Masculino",
+            "imageName": "//images.centauro.com.br/180x180/838947UP.jpg",
+            "detailUrl": "//www.centauro.com.br/tenis-adidas-springblade-2-tf-m-838947.html?cor=UP&p=838947UP",
+            "price": "R$ 599,99",
+            "oldPrice": "R$ 999,99",
+            "productInfo": {
+              "paymentConditions": "Até <strong>12x</strong> de <strong> 50,00</strong>"
             }
          },
          {
-            "businessId":"1768488",
-            "name":"Tênis Nike Air Max 2015 - Masculino",
-            "imageName":"//images.centauro.com.br/180x180/843867CT.jpg",
-            "detailUrl":"//www.centauro.com.br/tenis-nike-air-max-2015-698902-843867.html?cor=CT&p=843867CT",
-            "price":"R$ 594,99",
-            "oldPrice":"R$ 699,99",
-            "productInfo":{
-               "paymentConditions":"Até <strong>12x</strong> de <strong> 49,58</strong>"
+            "businessId": "1768488",
+            "name": "Tênis Nike Air Max 2015 - Masculino",
+            "imageName": "//images.centauro.com.br/180x180/843867CT.jpg",
+            "detailUrl": "//www.centauro.com.br/tenis-nike-air-max-2015-698902-843867.html?cor=CT&p=843867CT",
+            "price": "R$ 594,99",
+            "oldPrice": "R$ 699,99",
+            "productInfo": {
+              "paymentConditions": "Até <strong>12x</strong> de <strong> 49,58</strong>"
             }
          },
          {
-            "businessId":"1767783",
-            "name":"Tênis Nike Air Max Excellerate 3 - Masculino",
-            "imageName":"//images.centauro.com.br/180x180/843016CT.jpg",
-            "detailUrl":"//www.centauro.com.br/tenis-nike-air-max-excellerate-3-masculino-703072-843016.html?cor=11",
-            "price":"R$ 359,99",
-            "oldPrice":"R$ 449,99",
-            "productInfo":{
-               "paymentConditions":"Até <strong>12x</strong> de <strong> 30,00</strong>"
+            "businessId": "1767783",
+            "name": "Tênis Nike Air Max Excellerate 3 - Masculino",
+            "imageName": "//images.centauro.com.br/180x180/843016CT.jpg",
+            "detailUrl": "//www.centauro.com.br/tenis-nike-air-max-excellerate-3-masculino-703072-843016.html?cor=11",
+            "price": "R$ 359,99",
+            "oldPrice": "R$ 449,99",
+            "productInfo": {
+              "paymentConditions": "Até <strong>12x</strong> de <strong> 30,00</strong>"
             }
          },
          {
-            "businessId":"1680698",
-            "name":"Tênis Adidas Springblade Razor – Masculino",
-            "imageName":"//images.centauro.com.br/180x180/838947TH.jpg",
-            "detailUrl":"//www.centauro.com.br/tenis-adidas-springblade-2-tf-m-838947.html?cor=TH&p=838947TH",
-            "price":"R$ 599,99",
-            "oldPrice":"R$ 999,99",
-            "productInfo":{
-               "paymentConditions":"Até <strong>12x</strong> de <strong> 50,00</strong>"
+            "businessId": "1680698",
+            "name": "Tênis Adidas Springblade Razor – Masculino",
+            "imageName": "//images.centauro.com.br/180x180/838947TH.jpg",
+            "detailUrl": "//www.centauro.com.br/tenis-adidas-springblade-2-tf-m-838947.html?cor=TH&p=838947TH",
+            "price": "R$ 599,99",
+            "oldPrice": "R$ 999,99",
+            "productInfo": {
+              "paymentConditions": "Até <strong>12x</strong> de <strong> 50,00</strong>"
             }
          },
          {
-            "businessId":"470442",
-            "name":"Tênis Nike Flex Supreme TR 3 - Masculino",
-            "imageName":"//images.centauro.com.br/180x180/832596O3.jpg",
-            "detailUrl":"//www.centauro.com.br/tenis-nike-flex-supreme-tr-3-653620-832596.html?cor=O3&p=832596O3",
-            "price":"R$ 214,99",
-            "oldPrice":"R$ 249,99",
-            "productInfo":{
-               "paymentConditions":"Até <strong>8x</strong> de <strong> 26,87</strong>"
+            "businessId": "470442",
+            "name": "Tênis Nike Flex Supreme TR 3 - Masculino",
+            "imageName": "//images.centauro.com.br/180x180/832596O3.jpg",
+            "detailUrl": "//www.centauro.com.br/tenis-nike-flex-supreme-tr-3-653620-832596.html?cor=O3&p=832596O3",
+            "price": "R$ 214,99",
+            "oldPrice": "R$ 249,99",
+            "productInfo": {
+              "paymentConditions": "Até <strong>8x</strong> de <strong> 26,87</strong>"
             }
          },
          {
-           "businessId":"1826580",
-           "name":"Tenis Nike Air Max 2014 – Masculino",
-           "imageName":"//images.centauro.com.br/180x180/817101UG.jpg",
-           "detailUrl":"//www.centauro.com.br/tenis-nike-air-max-masculino-2014-621077-817101.html?cor=UG&p=817101UG",
-           "price":"R$ 409,99",
-           "oldPrice":"R$ 699,99",
-           "productInfo":{
-              "paymentConditions":"Até <strong>12x</strong> de <strong> 34,17</strong>"
+           "businessId": "1826580",
+           "name": "Tenis Nike Air Max 2014 – Masculino",
+           "imageName": "//images.centauro.com.br/180x180/817101UG.jpg",
+           "detailUrl": "//www.centauro.com.br/tenis-nike-air-max-masculino-2014-621077-817101.html?cor=UG&p=817101UG",
+           "price": "R$ 409,99",
+           "oldPrice": "R$ 699,99",
+           "productInfo": {
+             "paymentConditions": "Até <strong>12x</strong> de <strong> 34,17</strong>"
            }
          },
          {
-            "businessId":"1768491",
-            "name":"Tênis Mizuno Wave Prophecy 4 - Masculino",
-            "imageName":"//images.centauro.com.br/180x180/8470341D.jpg",
-            "detailUrl":"//www.centauro.com.br/tenis-mizuno-wave-prophecy-4-masculino-4133119-847034.html?cor=1D",
-            "price":"R$ 1.099,99",
-            "oldPrice":"R$ 1.349,99",
-            "productInfo":{
-               "paymentConditions":"Até <strong>12x</strong> de <strong> 91,67</strong>"
+            "businessId": "1768491",
+            "name": "Tênis Mizuno Wave Prophecy 4 - Masculino",
+            "imageName": "//images.centauro.com.br/180x180/8470341D.jpg",
+            "detailUrl": "//www.centauro.com.br/tenis-mizuno-wave-prophecy-4-masculino-4133119-847034.html?cor=1D",
+            "price": "R$ 1.099,99",
+            "oldPrice": "R$ 1.349,99",
+            "productInfo": {
+              "paymentConditions": "Até <strong>12x</strong> de <strong> 91,67</strong>"
             }
          },
          {
-            "businessId":"1706504",
-            "name":"Tênis Nike Shox Turbo 14 – Masculino",
-            "imageName":"//images.centauro.com.br/180x180/8219673W.jpg",
-            "detailUrl":"//www.centauro.com.br/tenis-nike-shox-turbo-masculino-14-821967.html?cor=3W&p=8219673W",
-            "price":"R$ 469,99",
-            "oldPrice":"R$ 699,99",
-            "productInfo":{
-               "paymentConditions":"Até <strong>12x</strong> de <strong> 39,17</strong>"
+            "businessId": "1706504",
+            "name": "Tênis Nike Shox Turbo 14 – Masculino",
+            "imageName": "//images.centauro.com.br/180x180/8219673W.jpg",
+            "detailUrl": "//www.centauro.com.br/tenis-nike-shox-turbo-masculino-14-821967.html?cor=3W&p=8219673W",
+            "price": "R$ 469,99",
+            "oldPrice": "R$ 699,99",
+            "productInfo": {
+              "paymentConditions": "Até <strong>12x</strong> de <strong> 39,17</strong>"
             }
          },
          {
-           "businessId":"1768629",
-           "name":"Tenis Adidas Springblade Drive - Masculino",
-           "imageName":"//images.centauro.com.br/180x180/8453120O.jpg",
-           "detailUrl":"//www.centauro.com.br/tenis-adidas-masculino-springblade-drive-m-845312.html?cor=0O&p=8453120O",
-           "price":"R$ 799,99",
-           "oldPrice":"R$ 999,99",
-           "productInfo":{
-              "paymentConditions":"Até <strong>12x</strong> de <strong> 66,67</strong>"
+           "businessId": "1768629",
+           "name": "Tenis Adidas Springblade Drive - Masculino",
+           "imageName": "//images.centauro.com.br/180x180/8453120O.jpg",
+           "detailUrl": "//www.centauro.com.br/tenis-adidas-masculino-springblade-drive-m-845312.html?cor=0O&p=8453120O",
+           "price": "R$ 799,99",
+           "oldPrice": "R$ 999,99",
+           "productInfo": {
+             "paymentConditions": "Até <strong>12x</strong> de <strong> 66,67</strong>"
            }
          },
          {
-            "businessId":"1765938",
-            "name":"Tênis Nike Air Max Excellerate 3 - Masculino",
-            "imageName":"//images.centauro.com.br/180x180/84301611.jpg",
-            "detailUrl":"//www.centauro.com.br/tenis-nike-air-max-excellerate-3-masculino-703072-843016.html?cor=11&p=84301611",
-            "price":"R$ 339,99",
-            "oldPrice":"R$ 449,99",
-            "productInfo":{
-               "paymentConditions":"Até <strong>12x</strong> de <strong> 28,33</strong>"
+            "businessId": "1765938",
+            "name": "Tênis Nike Air Max Excellerate 3 - Masculino",
+            "imageName": "//images.centauro.com.br/180x180/84301611.jpg",
+            "detailUrl": "//www.centauro.com.br/tenis-nike-air-max-excellerate-3-masculino-703072-843016.html?cor=11&p=84301611",
+            "price": "R$ 339,99",
+            "oldPrice": "R$ 449,99",
+            "productInfo": {
+              "paymentConditions": "Até <strong>12x</strong> de <strong> 28,33</strong>"
             }
          }
       ]
    }
-});
+}
